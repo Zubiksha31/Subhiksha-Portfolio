@@ -2,7 +2,7 @@ import React from "react";
 import RollingGallery from "../ui/RollingGallery";
 import Ecommerce from "../../assets/Ecommerce.png";
 import Igreen from "../../assets/Igreen.png";
-import LandingPage from "../../assets/LandingPage.png";
+import LandingPage from "../../assets/Landingpage.png";
 import Innomatics from "../../assets/innomatic.png";
 import InnomaticHackathon from "../../assets/Innomatics-hackathon.png";
 import InnomaticProject from "../../assets/Innomaticproject.png";
