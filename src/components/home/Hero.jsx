@@ -6,7 +6,7 @@ import { SiProtonmail } from "react-icons/si";
 import SpotlightCard from "../ui/SpotlightCard";
 import Ecommerce from "../../assets/Ecommerce.png";
 import Igreen from "../../assets/Igreen.png";
-import LandingPage from "../../assets/LandingPage.png";
+import LandingPage from "../../assets/Landingpage.png";
 import InnomaticHackathon from "../../assets/Innomatics-hackathon.png";
 import InnomaticProject from "../../assets/Innomaticproject.png";
 import { Link } from "react-router-dom";
