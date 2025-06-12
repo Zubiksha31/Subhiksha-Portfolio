@@ -1,7 +1,4 @@
 import React from "react";
-import AnimatedList from "../ui/Animatedlist";
-import Stepper, { Step } from "../ui/Stepper";
-import Gdsc from "../../assets/GDSCPIC.png";
 import RollingGallery from "../ui/RollingGallery";
 import Ecommerce from "../../assets/Ecommerce.png";
 import Igreen from "../../assets/Igreen.png";
